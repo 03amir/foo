@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "parcel": "^2.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "swig",
+  "version": "1.0.0",
+  "description": "foo",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/03amir/foo.git"
+  },
+  "author": "amir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/03amir/foo/issues"
+  },
+  "homepage": "https://github.com/03amir/foo#readme",
+  "devDependencies": {
+    "postcss": "^8.4.24",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.2"
+  }
+}
